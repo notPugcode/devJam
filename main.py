@@ -1,3 +1,6 @@
+print("Hello World")
+
+
 def main():
     while True:
         try:
